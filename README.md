@@ -34,7 +34,7 @@
 
 ## 💬 Frase de cabecera
 
-> "El mercado puede mantenerse irracional más tiempo del que tu roadmap puede mantenerse sin validar."
+> "Un buen roadmap se parece a una buena operación: define la salida antes de entrar."
 
 ---
 
