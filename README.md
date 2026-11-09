@@ -34,7 +34,7 @@
 
 ## 💬 Frase de cabecera
 
-> "El mercado puede mantenerse irracional más tiempo del que tu roadmap puede mantenerse sin validar."
+> "Los datos mandan: si el usuario no lo usa, la idea no vale, aunque el equipo la ame."
 
 ---
 
