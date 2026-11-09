@@ -25,6 +25,13 @@
 - Automatización con IA para el trabajo de producto
 - Gestión de riesgo, dentro y fuera del mercado
 
+## 🛠️ Herramientas que uso
+
+- **Claude Code**: mi copiloto para automatizar tareas y trabajar con el código desde la terminal.
+- **Git**: el historial de cada operación, para poder volver atrás cuando algo sale mal.
+- **GitHub**: donde viven mis repositorios, las ramas y las revisiones por PR.
+- **Notion**: mi mesa de trabajo para documentar hipótesis, decisiones y aprendizajes.
+
 ## 💬 Frase de cabecera
 
 > "El mercado puede mantenerse irracional más tiempo del que tu roadmap puede mantenerse sin validar."
