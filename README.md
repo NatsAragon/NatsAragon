@@ -35,6 +35,8 @@
 ## 💬 Frase de cabecera
 
 > "Un buen roadmap se parece a una buena operación: define la salida antes de entrar."
+>
+> "Los datos mandan: si el usuario no lo usa, la idea no vale, aunque el equipo la ame."
 
 ---
 
